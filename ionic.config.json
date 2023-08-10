@@ -1,0 +1,7 @@
+{
+  "name": "academyEditor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
